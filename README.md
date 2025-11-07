@@ -16,8 +16,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 6px;" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/secabuse/secabuse/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/secabuse/secabuse/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/secabuse/secabuse/output/github-snake.svg" />
-</picture>
